@@ -52,3 +52,10 @@ Kaspersky, Turbo VPN, Secure VPN, Thunder VPN don't work for me
 - This project is against [Discord's Term of Service](https://discord.com/terms) and could lead your accounts getting terminated if found.
 - This project is a proof of concept only.
 - I am not responsible for anything that may happen to your account (please be careful and don't be silly).
+
+## Download
+
+Since I am giving away this for free and I know most of you are skids:  
+[Here is the download link](https://upfiles.com/fYmYhYU4)  
+I can't force you to say thank you and I am literally earning a little than you, please be thankful at least.  
+Always scan the file and read the code for malware. You can't trust me if I say it doesn't have any.
